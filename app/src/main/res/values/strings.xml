@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SCWebView</string>
+
+    <string name="input_info">한줄에 한개의 주소가 들어간 txt파일을 선택해주세요.</string>
+    <string name="revert_info">변경 버튼을 롱클릭시 원복 합니다.</string>
+    <string name="input">직접입력</string>
+
+    <string name="revert_do">원복 하시겠습니까?</string>
+    <string name="revert">원복</string>
+
+
+</resources>
