@@ -22,17 +22,6 @@
                 <action android:name="android.intent.action.MAIN"/>
             </intent-filter>
         </activity>
-        <!--<activity-->
-            <!--android:name="kr.co.minervasoft.lib.magic.idreader.activity.IDReaderCaptureActivity"-->
-            <!--android:screenOrientation="landscape"-->
-            <!--/>-->
-
-        <!--<activity-->
-            <!--android:name=".ResultActivity"-->
-            <!--android:screenOrientation="landscape"-->
-            <!--/>-->
-
-
     </application>
 
 </manifest>
